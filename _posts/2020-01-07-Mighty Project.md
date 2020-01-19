@@ -3,8 +3,7 @@ title: "마이티 프로젝트 - 계획"
 excerpt: "마이티 프로젝트의 간단한 계획을 세워봅시다."
 
 categories:
-    - Mighty
-    - Project
+    - Mighty Project
 tags:
     - Mighty
     - Document
@@ -38,3 +37,8 @@ last_modified_at:
 <br>
 - 앞으로?
     - 뼈대가 완성되면 5인이 참여할 수 있는 버전을 만들어본다.
+
+<br><br>
+
+## 3. 프로젝트
+- Github Repository: https://github.com/kippem9088/GhostFriend
