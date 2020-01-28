@@ -7,7 +7,7 @@ categories:
 tags:
     - Mighty
     - Document
-last_modified_at: 
+last_modified_at:
 ---
 
 ## 2주차 진행상황

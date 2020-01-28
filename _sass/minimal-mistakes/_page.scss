@@ -103,9 +103,13 @@ body {
 		&:hover .header-link {
 			opacity: 1;
 		}
-	}
+	}  
 
   p,
+  ul {
+    font-size: 0.8rem;
+  }
+
   li,
   dl {
     font-size: 1em;
