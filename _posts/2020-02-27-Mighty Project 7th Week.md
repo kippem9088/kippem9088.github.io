@@ -21,9 +21,15 @@ Ruby를 업데이트하다가 버전이 꼬이기 시작하면서 한동안 jeky
 
 ## 7주차 진행상황
 - Done
-    -     
-- To do    
+    - View-ViewModel 구조를 Window Client에 적용
+    - Client에서 Server로 플레이어 이름을 보내면, 이후 5명의 플레이어가 전부 참가할 때까지 Client는 대기하며 계속 Player 정보를 Server로부터 받아 업데이트
+- To do
+    - Client의 UI Thread와 Background에서 Server와 통신할 Thread가 분리되어야 함
+    - Client가 종료되었을 때, 해당 Player가 게임에서 나갔음을 Server에서 인지하고 Player를 예외처리 해주어야함
+    - Client에서 카드를 그릴 수 있도록 하고, 카드를 나눠받는 부분 구현
     - Java로 실행 가능한 파일 생성하는 법 알아보기 (jar?) (continued)
 - Issues
     - 구현된 내용을 문서화해주는 툴이 있으면 좋겠다… IntelliJ의 UML Diagram 생성 기능이 있다는데 찾을 수가 없다. (continued)
+    - jekyll serve 실행 시 아래와 같은 에러가 계속 발생중
+        - Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss': Invalid CP949 character "\xEB" on line 17
 
