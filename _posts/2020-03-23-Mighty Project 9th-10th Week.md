@@ -66,7 +66,7 @@ public void distributeCards() {
 
 ```
 
-### String concatenatio '+=' in loop
+### String concatenation '+=' in loop
 
 [참고](https://help.semmle.com/wiki/display/JAVA/String+concatenation+in+loop)
 
