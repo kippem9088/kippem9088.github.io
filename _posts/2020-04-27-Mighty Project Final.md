@@ -41,7 +41,7 @@ ClientControl은 각 Client로부터의 문자열을 읽어 Command 단위로 �
 
 그 외에는 Mighty 라는 게임의 로직을 구현하기 위해 역할을 분담하는 Class들이다. 
 
-![Server Class Diagram](/Images/ServerClassDiagram.PNG)
+![Server Class Diagram](/Images/ServerClassDiagram2.PNG)
 
 
 객체 구조에 대한 설계 외에 중점을 둔 부분은 단위 테스트 작성이다. Client와 직접 통신을 하는 Game Class 외의 Base Package Class 들은 Test Case를 작성하였다.
