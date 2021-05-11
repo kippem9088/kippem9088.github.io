@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Code's Playground"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyehyeon Kim"
+name                     : "CodePlayer"
 description              : "Everything is OK"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyehyeon Kim"
+  name             : "CodePlayer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "코드가 노는 공간"
   location         : "South Korea"
-  email            : kippem9088@gmail.com
+  email            : dev.hyehyeon.kim@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:kippem9088@gmail.com
+      url: mailto:dev.hyehyeon.kim@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/kippem9088"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
